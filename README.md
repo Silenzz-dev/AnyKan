@@ -1,11 +1,6 @@
 # AnyKan
 
-[![Status](https://img.shields.io/badge/status-initial%20setup-blue)](#)  
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)  
-[![Backend](https://img.shields.io/badge/backend-NestJS-red)](#)  
-[![Database](https://img.shields.io/badge/database-MongoDB-brightgreen)](#)  
-[![Frontend](https://img.shields.io/badge/frontend-Astro%2FReact-orange)](#)  
-[![Self-Hosted](https://img.shields.io/badge/deployment-self--hosted-lightgrey)](#) 
+[![Status](https://img.shields.io/badge/status-initial%20setup-blue)](#) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![Backend](https://img.shields.io/badge/backend-NestJS-red)](#) [![Database](https://img.shields.io/badge/database-MongoDB-brightgreen)](#) [![Frontend](https://img.shields.io/badge/frontend-Astro%2FReact-orange)](#) [![Self-Hosted](https://img.shields.io/badge/deployment-self--hosted-lightgrey)](#)
 
 AnyKan es un **fork de [PlanKanban/Planka](https://github.com/plankanban/planka)**, creado con el prop√≥sito de:
 
@@ -32,12 +27,7 @@ Este proyecto nace como un **hobby** y con fines **educativos**, con la intenci√
 
 # AnyKan (English)
 
-[![Status](https://img.shields.io/badge/status-initial%20setup-blue)](#)  
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)  
-[![Backend](https://img.shields.io/badge/backend-NestJS-red)](#)  
-[![Database](https://img.shields.io/badge/database-MongoDB-brightgreen)](#)  
-[![Frontend](https://img.shields.io/badge/frontend-Astro%2FReact-orange)](#)  
-[![Self-Hosted](https://img.shields.io/badge/deployment-self--hosted-lightgrey)](#) 
+[![Status](https://img.shields.io/badge/status-initial%20setup-blue)](#) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![Backend](https://img.shields.io/badge/backend-NestJS-red)](#) [![Database](https://img.shields.io/badge/database-MongoDB-brightgreen)](#) [![Frontend](https://img.shields.io/badge/frontend-Astro%2FReact-orange)](#) [![Self-Hosted](https://img.shields.io/badge/deployment-self--hosted-lightgrey)](#) 
 
 AnyKan is a **fork of [PlanKanban/Planka](https://github.com/plankanban/planka)**, created with the purpose of:
 
